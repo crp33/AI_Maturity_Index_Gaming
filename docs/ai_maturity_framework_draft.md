@@ -17,4 +17,11 @@ This framework defines key dimenstions and caegories to assess the maturity of A
 #5. Ethics and responsible gaming
 - Player protection & AI tools
 - Transparency& Explainability
-- 
+
+  ## Scoring Scale (applies to all subcategories)
+  |Score|Description|
+  | 0 | No evidence or capability or practice |
+  | 1 | Inital steps taken, or incosistent  |
+  | 2 | Established practice in place |
+  | 3 | Fully embedded and optimized organization |
+  
